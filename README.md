@@ -26,7 +26,7 @@
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/danielcdsantos01/" target="_blank">
+  <a href="https://www.linkedin.com/in/danielcsnts/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="danielcsnts.contato@gmail.com">
